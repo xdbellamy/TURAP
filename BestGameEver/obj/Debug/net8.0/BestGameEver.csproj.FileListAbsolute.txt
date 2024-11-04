@@ -1,0 +1,14 @@
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\bin\Debug\net8.0\BestGameEver.exe
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\bin\Debug\net8.0\BestGameEver.deps.json
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\bin\Debug\net8.0\BestGameEver.runtimeconfig.json
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\bin\Debug\net8.0\BestGameEver.dll
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\bin\Debug\net8.0\BestGameEver.pdb
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.AssemblyInfoInputs.cache
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.AssemblyInfo.cs
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.csproj.CoreCompileInputs.cache
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.dll
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\refint\BestGameEver.dll
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.pdb
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\BestGameEver.genruntimeconfig.cache
+C:\Users\magik\source\repos\BestGameEver\BestGameEver\obj\Debug\net8.0\ref\BestGameEver.dll
