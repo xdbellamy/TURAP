@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BestGameEver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c122567a1024c9978cd0b1e5e72c7208df82cd6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BestGameEver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BestGameEver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

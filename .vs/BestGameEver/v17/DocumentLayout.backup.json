@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\magik\\source\\repos\\BestGameEver\\",
+  "WorkspaceRootPath": "C:\\Users\\mikke\\source\\repos\\TURAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\magik\\source\\repos\\bestgameever\\bestgameever\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\magik\\source\\repos\\bestgameever\\bestgameever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\magik\\source\\repos\\bestgameever\\bestgameever\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\magik\\source\\repos\\bestgameever\\bestgameever\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\magik\\source\\repos\\bestgameever\\bestgameever\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\magik\\source\\repos\\bestgameever\\bestgameever\\hp_potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\hp_potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\hp_potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|c:\\users\\mikke\\source\\repos\\turap\\bestgameever\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3555B2A7-1DC4-4D16-8450-2EDCB4D5A5D5}|BestGameEver\\BestGameEver.csproj|solutionrelative:bestgameever\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,74 +50,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\UI.cs",
+              "RelativeDocumentMoniker": "BestGameEver\\UI.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\UI.cs",
+              "RelativeToolTip": "BestGameEver\\UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:46:02.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Character.cs",
+              "RelativeDocumentMoniker": "BestGameEver\\Character.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Character.cs",
+              "RelativeToolTip": "BestGameEver\\Character.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:21:48.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HP_Potion.cs",
-              "DocumentMoniker": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\HP_Potion.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\HP_Potion.cs",
               "RelativeDocumentMoniker": "BestGameEver\\HP_Potion.cs",
-              "ToolTip": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\HP_Potion.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\HP_Potion.cs",
               "RelativeToolTip": "BestGameEver\\HP_Potion.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T11:19:34.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Weapon.cs",
               "RelativeDocumentMoniker": "BestGameEver\\Weapon.cs",
-              "ToolTip": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Weapon.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Weapon.cs",
               "RelativeToolTip": "BestGameEver\\Weapon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T11:19:24.609Z"
+              "WhenOpened": "2024-10-28T11:19:24.609Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Program.cs",
               "RelativeDocumentMoniker": "BestGameEver\\Program.cs",
-              "ToolTip": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Program.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Program.cs",
               "RelativeToolTip": "BestGameEver\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T10:44:48.874Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Actions.cs",
-              "DocumentMoniker": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Actions.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Actions.cs",
               "RelativeDocumentMoniker": "BestGameEver\\Actions.cs",
-              "ToolTip": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Actions.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Actions.cs",
               "RelativeToolTip": "BestGameEver\\Actions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wA4AAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T12:49:52.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T12:49:52.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Player.cs",
               "RelativeDocumentMoniker": "BestGameEver\\Player.cs",
-              "ToolTip": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Player.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Player.cs",
               "RelativeToolTip": "BestGameEver\\Player.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAmwEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T11:18:32.188Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Enemy.cs",
               "RelativeDocumentMoniker": "BestGameEver\\Enemy.cs",
-              "ToolTip": "C:\\Users\\magik\\source\\repos\\BestGameEver\\BestGameEver\\Enemy.cs",
+              "ToolTip": "C:\\Users\\mikke\\source\\repos\\TURAP\\BestGameEver\\Enemy.cs",
               "RelativeToolTip": "BestGameEver\\Enemy.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwC8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T11:19:10.799Z"
             }
